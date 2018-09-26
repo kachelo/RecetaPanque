@@ -11,7 +11,6 @@ hace un panque.
 
 # Participantes
 
-- Cristobal
 - Luis
 - Roberto
 - Alejandro
