@@ -1,2 +1,16 @@
+
+
+
+
+
+
+
+# Para ignorar todos uso *
+#con ! niego exclusion para lograr incluirlos
+#*
+#!readme.md
+
+#  ignor los archivos que terminan mp3
+*mp3
 igno*
 
