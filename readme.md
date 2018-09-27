@@ -23,3 +23,5 @@ hace un panque.
 Eliminamos ingredientes porque vamos a comprar el 
 panque.
 
+# Coliciones
+Tratando de generar una colision
