@@ -17,3 +17,9 @@ hace un panque.
 - Alejandro
 - Jazmin
 - ...
+
+# Caso de uso
+
+Eliminamos ingredientes porque vamos a comprar el 
+panque.
+
